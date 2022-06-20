@@ -18,7 +18,7 @@ export default function home() {
       <br />
 
       <div className="row">
-        <Link to="/login">
+        <Link to="/store">
           <button type="button" className="btn btn-dark btn-lg"> 🕵️ </button>
         </Link>
       </div>
