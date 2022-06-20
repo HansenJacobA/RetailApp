@@ -5,7 +5,7 @@ import './questions.scss';
 export default function questions() {
   return (
     <div className="container questions">
-      Questions
+      <h3>Questions</h3>
     </div>
   );
 }
