@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import './store.scss';
 import Overview from '../overview/overview';
 import Questions from '../questions/questions';
